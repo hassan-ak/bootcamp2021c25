@@ -4,6 +4,8 @@
 
 - [Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
   - Chapter 07
+    - Authentication is about proving you are, who you say, you are — which could be through a username and password.
+    - Authorization is about being allowed to access to special resources or actions that are normally private. Like getting user details or creating a new review.
 
 ## Reading Material
 
